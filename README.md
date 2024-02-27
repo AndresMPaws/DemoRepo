@@ -1,4 +1,4 @@
 # DemoRepo!!
 
 > [!CAUTION]
-> **Negative potential consequences of an action.**
+> **Negative potential `--amend` consequences of an action.**
